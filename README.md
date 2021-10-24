@@ -16,8 +16,10 @@ The **aim** of the LMIC chapter is to bridge the gap in the use of R software am
 Microsoft Excel and TreeAge remain popular software for HTA modelling, especially in LMICs
 - Many standard software used for HTA and health economics require costly subscriptions
 - R is a [free](https://www.r-project.org/), open source software. This is an obvious benefit in LMICs
+
 Because LMICs are moving towards the principles of Universal Health Coverage (UHC) there will be an increased demand for complex HTA methodology, especially in oncology and other rare diseases
 - This will make the need for more efficient and comprehensive software for HTA within LMICs gradually more necessary
+
 Most LMIC institutions do not offer in-depth HTA tutorials in R
 - There is a need to provide accessible workshops that showcase the strengths of R while also providing online tutorial and coding resources for LMIC analysts
 
