@@ -37,4 +37,4 @@ Most LMIC institutions do not offer in-depth HTA tutorials in R.
 
 # The Team
 
-<img src="img/team.png" align="center" />
+<img src="img/theteam.png" align="center" />
