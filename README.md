@@ -26,4 +26,4 @@ The **aim** of the LMIC chapter is to bridge the gap in the use of R software am
 
 ## The Team
 
-<img src="img/team.png" width="260" align="right" />
+<img src="img/team.png" width="260" align="center" />
