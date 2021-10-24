@@ -1,7 +1,7 @@
 # What do we do?
 ## R-HTA
 
-<img src="img/avatar" width="260" align="right" />
+<img src="img/avatar.png" width="260" align="right" />
 
 [R-HTA](https://r-hta.org/) is an consortium focused on popularising the use of R for health economics and health technology assessment (HTA). The main body of R-HTA includes members primarily from the Americas and UK, who have diverse experience in government (including [NICE](https://www.nice.org.uk/) in the UK), academia, and industry. The aims of R-HTA, in general, are to:
 - Provide discussion on the many R [packages](https://r-hta.org/#resources) available to HTA analysts;
