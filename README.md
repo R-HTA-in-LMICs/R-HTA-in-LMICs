@@ -10,9 +10,18 @@
 **‘R-HTA in LMICs’ is the LMIC-focused chapter of this consortium that aims to introduce and showcase the strengths of R specifically to LMIC analysts and health care institutions**
 
 # R-HTA in LMICs
-The **aim** of the LMIC chapter is to bridge the gap in the use of R software among HTA analysts in LMICs. We host both presentation-focused and tutorial-focused R workshops. In the first quarter of every year, we host a presentation-based workshop which encourages LMIC Masters and PhD students at universities and members of other partnership organisations to present their R related health economics work. In every subsequent quarter, we host introductory, intermediate and advanced workshops, applied within an LMIC context, which focus on practical, in-depth topics associated with modelling in R. For example: in introductory workshops, we teach participants the basics of R and discuss how to use several open-source HTA R packages; more advanced topics include developing R-HTA models in interactive formats, using Shiny (click [herehttps://shiny.rstudio.com/]) for details). All attendees are provided with key resources and code used in every workshop.
+The **aim** of the LMIC chapter is to bridge the gap in the use of R software among HTA analysts in LMICs. We host both presentation-focused and tutorial-focused R workshops. In the first quarter of every year, we host a presentation-based workshop which encourages LMIC Masters and PhD students at universities and members of other partnership organisations to present their R related health economics work. In every subsequent quarter, we host introductory, intermediate and advanced workshops, applied within an LMIC context, which focus on practical, in-depth topics associated with modelling in R. For example: in introductory workshops, we teach participants the basics of R and discuss how to use several open-source HTA R packages; more advanced topics include developing R-HTA models in interactive formats, using Shiny (click [here](https://shiny.rstudio.com/] for details). All attendees are provided with key resources and code used in every workshop.
 
-## But why R?
+## Why an LMIC chapter?
+Microsoft Excel and TreeAge remain popular software for HTA modelling, especially in LMICs
+- Many standard software used for HTA and health economics require costly subscriptions
+- R is a [free](https://www.r-project.org/), open source software. This is an obvious benefit in LMICs
+Because LMICs are moving towards the principles of Universal Health Coverage (UHC) there will be an increased demand for complex HTA methodology, especially in oncology and other rare diseases
+- This will make the need for more efficient and comprehensive software for HTA within LMICs gradually more necessary
+Most LMIC institutions do not offer in-depth HTA tutorials in R
+- There is a need to provide accessible workshops that showcase the strengths of R while also providing online tutorial and coding resources for LMIC analysts
+
+# But why R?
 ***R scales efficiently***
 - This is especially true when an HTA model becomes increasingly complex compared to other commonly used software (read more [here](https://www.valueinhealthjournal.com/action/showPdf?pii=S1098-3015%2819%2930050-6))
 
@@ -24,6 +33,6 @@ The **aim** of the LMIC chapter is to bridge the gap in the use of R software am
 - Using [‘version control’](https://en.wikipedia.org/wiki/Version_control), updates do not ‘break’ models
 - With [RMarkdown](https://rmarkdown.rstudio.com/) and [Shiny](https://shiny.rstudio.com/), analysts can deliver transparent, reproducible reports and interactive models
 
-## The Team
+# The Team
 
 <img src="img/team.png" align="center" />
